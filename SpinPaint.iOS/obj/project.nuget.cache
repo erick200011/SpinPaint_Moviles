@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KufirgZt2fHiwaKNukANcm6bnMY/HCCokHG1N6S7HpwKzl0SmUQpxauDpeXos9W3FFwVCCH2RtpRunilN9DXsw==",
+  "success": true,
+  "projectFilePath": "D:\\EPN 5° SEMESTRE\\Desarrollo de aplicaciones moviles\\SpinPaint\\SpinPaint\\SpinPaint.iOS\\SpinPaint.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\skiasharp\\1.60.0\\skiasharp.1.60.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\skiasharp.views\\1.60.0\\skiasharp.views.1.60.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\skiasharp.views.forms\\1.60.0\\skiasharp.views.forms.1.60.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

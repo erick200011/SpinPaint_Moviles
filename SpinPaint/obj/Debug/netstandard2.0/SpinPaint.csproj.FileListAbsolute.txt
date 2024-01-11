@@ -1,0 +1,13 @@
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.deps.json
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.dll
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.pdb
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.csproj.AssemblyReference.cache
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.AssemblyInfoInputs.cache
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.AssemblyInfo.cs
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.csproj.CoreCompileInputs.cache
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\XamlC.stamp
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.dll
+D:\EPN 5° SEMESTRE\Desarrollo de aplicaciones moviles\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.pdb

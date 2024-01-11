@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQXijdNaip77hiaxt5whwgKZpuJaqkI9BHYkx+if4nxj+f8U6NYhzUhYsOFfq+5BrZudznmjQLgZ49/nN1Lk3g==",
+  "success": true,
+  "projectFilePath": "D:\\EPN 5° SEMESTRE\\Desarrollo de aplicaciones moviles\\SpinPaint\\SpinPaint\\SpinPaint\\SpinPaint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\skiasharp\\1.60.0\\skiasharp.1.60.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\skiasharp.views.forms\\1.60.0\\skiasharp.views.forms.1.60.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
